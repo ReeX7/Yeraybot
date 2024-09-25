@@ -1,4 +1,4 @@
-//https://github.com/sebasmpv/YerayBot-MD
+//https://github.com/sebasmpv/BestBot-MD
 
 import speed from 'performance-now'
 import { spawn, exec, execSync } from 'child_process'
