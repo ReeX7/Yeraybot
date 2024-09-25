@@ -59,7 +59,7 @@ global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/KPZpP0VnlA875UpXCDPc0E' //Grupo Oficial De YerayBot
+global.gp1 = 'https://chat.whatsapp.com/KPZpP0VnlA875UpXCDPc0E' //Grupo Oficial De BestBot
 
 global.gp2 = 'https://chat.whatsapp.com/EBrkzuIFCQfGCD6dfxjEFk' //𝘽 𝘖 𝘛 𝘚 :  𝙈 𝘝 𝘗 🔥🤖
 
@@ -71,7 +71,7 @@ global.channel = 'https://whatsapp.com/channel/0029VaWIVax2975INZkaGi0s' //Canal
 
 global.yt = 'https://www.youtube.com/@sebas.mvp_official' //Canal De Youtube
 
-global.md = 'https://github.com/ale-rmz/YerayBot-MD' //Github Oficial
+global.md = 'https://github.com/ale-rmz/BestBot-MD' //Github Oficial
 
 global.fb = 'https://www.facebook.com/profile.php?id=100091794702798' //Facebook Del Propietario
 
