@@ -1,12 +1,12 @@
 > 🤖Versión Del Bot: 1.0.7
 
 
-<a href="https://github.com/sebasmpv/BestBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=YerayBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/sebasmpv/BestBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=BestBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
  
-### 𝗬𝗲𝗿𝗮𝘆 : 𝘽𝙤𝙩 - 𝙈𝘿🥷🏻🔥
+###  𝘽𝙚𝙨𝙩: 𝘽𝙤𝙩 - 𝙈𝘿🥷🏻🔥
 <p align="center">
-<img src="https://github.com/sebasmpv/YerayBot-MD/blob/master/Menu3.png" width="900"/>
+<img src="https://github.com/sebasmpv/BestBot-MD/blob/master/Menu3.png" width="900"/>
 </p>
 
 
