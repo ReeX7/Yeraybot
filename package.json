@@ -1,5 +1,5 @@
 {
-  "name": "YerayBot-MD",
+  "name": "BestBot-MD",
   "version": "1.0.7",
   "description": "El Mejor Bot",
   "main": "index.js",
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebasmpv/YerayBot-MD.git"
+    "url": "git+https://github.com/sebasmpv/BestBot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/sebasmpv/YerayBot-MD/issues"
+    "url": "https://github.com/sebasmpv/BestBot-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
