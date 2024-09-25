@@ -35,7 +35,7 @@ export async function handler(chatUpdate) {
     return;
   }
   if (global.db.data == null) await global.loadDatabase();
-  /* Creditos a Otosaka (https://wa.me/51993966345) */
+  /* Creditos a Otosaka (https://wa.me/88586015) */
 
   if (global.chatgpt.data === null) await global.loadChatgptDB();
 
@@ -1193,7 +1193,7 @@ const messageText = `
 ${user.bannedReason ? `\n*Motivo:* 
 ${user.bannedReason}` : '*Motivo:* Sin Especificar'}
 _Si Consideras Que Es Un Error Y Si Tienes Pruebas, Puedes Comunicarte Con El Propietario Del Bot Y Apelar La Suspención._
-*Intenta Quitar El Baneo Aqui:* Wa.me/593992402778
+*Intenta Quitar El Baneo Aqui:* Wa.me/50588586015
 ╰━━━━━━━✦✗✦━━━━━━━━╯
                `.trim();
               m.reply(messageText);
