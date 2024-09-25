@@ -33,13 +33,13 @@ global.prems = ['593995004980'];
 global.lenguajeSK = es //idioma de yeraybot
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
-global.packname = '𝙔𝙚𝙧𝙖𝙮𝘽𝙤𝙩-𝙈𝘿';
+global.packname = '𝘽𝙚𝙨𝙩𝘽𝙤𝙩-𝙈𝘿';
 global.author = 'Sebas 🌩';
-global.wm = '𝙔𝙚𝙧𝙖𝙮 : 𝘽𝙤𝙩';
-global.sk = '𝙔𝙚𝙧𝙖𝙮 : 𝘽𝙤𝙩 - 𝙈𝘿';
-global.titulowm = '𝙔𝙚𝙧𝙖𝙮 : 𝘽𝙤𝙩';
-global.titulowm2 = `𝘠𝘦𝘳𝘢𝘺 𝙊𝙛𝙞𝙘𝙞𝙖𝙡`
-global.igfg = 'Yeray Oficial';
+global.wm = '𝘽𝙚𝙨𝙩 : 𝘽𝙤𝙩';
+global.sk = '𝘽𝙚𝙨𝙩 : 𝘽𝙤𝙩 - 𝙈𝘿';
+global.titulowm = '𝘽𝙚𝙨𝙩 : 𝘽𝙤𝙩';
+global.titulowm2 = `Best 𝙊𝙛𝙞𝙘𝙞𝙖𝙡`
+global.igfg = 'Best Oficial';
 global.vs = '1.0.7';
 
 //• ↳ ◜𝑴𝑺𝑮 𝑫𝑬 𝑬𝑺𝑷𝑬𝑹𝑨◞ • 🈸
