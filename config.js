@@ -27,9 +27,9 @@ global.contactos = [
 ["50588586015", '𝐑𝐞𝐞𝐗 (𝗦𝘂𝗽𝗽𝗼𝗿𝘁) 💻', 1],
 ["528117082252", '𝐉𝐞𝐚𝐧7 (𝗘𝗱𝗶𝘁𝗼𝗿) 💻', 1]]
 
-global.suittag = ['593992402778'];
-global.prems = ['593995004980'];
-global.lenguajeSK = es //idioma de yeraybot
+global.suittag =[ '50588586015'];
+global.prems = ['528117082252'];
+global.lenguajeSK = es //idioma de Bestbot
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 🍁
 global.packname = '𝘽𝙚𝙨𝙩𝘽𝙤𝙩-𝙈𝘿';
